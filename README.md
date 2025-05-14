@@ -1,3 +1,4 @@
+```yaml
 apiVersion: v27
 kind: Human
 metadata:
@@ -15,3 +16,5 @@ spec:
     emoji: 🤦
     food: 🍖♨️🔥🥩🥓🍳 
     drink: 🍊
+
+```
