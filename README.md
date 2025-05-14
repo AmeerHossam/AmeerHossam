@@ -1,6 +1,3 @@
-
-
-
 ## Yoo there 👋👋
 ```yaml
 apiVersion: v27
